@@ -2,7 +2,7 @@
 
 
 
-[![경민's GitHub stats](https://github-readme-stats.vercel.app/api?username=kminsong)](https://github.com/kminsong/github-readme-stats)
+[![경민's GitHub stats](https://github-readme-stats.vercel.app/api?username=kminsong&theme=highcontrast)](https://github.com/kminsong/github-readme-stats)
 
 
 
